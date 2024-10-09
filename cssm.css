@@ -1,0 +1,61 @@
+body{
+    background: linear-gradient(#03ffea 0%, rgb(0, 131, 253) 100%,rgb(0, 4, 255));
+}
+
+#start-btn
+{
+    font-weight: 900;
+    font-style:  normal;
+    font-family: 'Inter-Loom';
+    
+} 
+#bton{
+    
+    font-weight: 900;
+    font-style:  italic;
+    font-family: 'Inter-Loom';
+}
+#web{
+    font-family: 'Special Elite', cursive;
+}
+#pas{
+    font-family: 'Special Elite', cursive; 
+}
+#webcam
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+    font-family: 'Special Elite', cursive;
+}
+.heading {
+    font-family: 'Dynalight', cursive;
+    font-size: 30px;
+    background-color: rgb(0, 131, 253);
+}
+.mac{
+    font-size: 23px;
+width: 1000px;
+margin: 0px;
+color: rgb(255, 238, 0);
+font-family: 'Special Elite', cursive;
+}
+.hem{
+    font-family: 'Dynalight', cursive;
+    font-size: 30px;
+    background-color: chocolate;
+}
+#eat453{
+    font-size: 25px;
+    color: black;
+}
+    
